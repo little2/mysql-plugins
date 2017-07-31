@@ -1,0 +1,22 @@
+{
+  "name": "mysql-plugins",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/little2/mysql-plugins.git"
+  },
+  "author": "Ryan Chiu",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.13.0"
+  },
+  "bugs": {
+    "url": "https://github.com/little2/mysql-plugins/issues"
+  },
+  "homepage": "https://github.com/little2/mysql-plugins#readme"
+}
