@@ -1,8 +1,7 @@
 {
   "name": "mysql-plugins",
-  "version": "1.0.1",
-  "description": "",
-  "main": "index.js",
+  "version": "1.0.3",
+  "main": "dist/sql-plugins.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/little2/mysql-plugins/issues"
   },
-  "homepage": "https://github.com/little2/mysql-plugins#readme"
+  "homepage": "https://github.com/little2/mysql-plugins#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  },
+  "description": ""
 }
